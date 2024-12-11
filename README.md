@@ -1,5 +1,5 @@
-# FS24-DL
-This repository includes the practical assignments of the course Deep Learning.
+# 24FS Deep Learning (DL)
+This repository includes the practical assignments of the course DL.
 
 ## Assignment 1: Perceptron Learning
 Perception Learning is applied to automatically generated data. The algorithm is initialized with a random line which is then optimized. The results are visualized to show how the learning improves the seperation line.
