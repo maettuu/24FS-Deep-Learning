@@ -1,4 +1,4 @@
-# Deep Learning: Code Base
+# Deep Learning: Codebase
 
 ## 1. Perceptron Learning
 ### Numpy Basics
